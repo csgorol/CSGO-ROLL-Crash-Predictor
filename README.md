@@ -6,7 +6,7 @@
 
 ## Overview
 
-CSGO-ROL Predictor is a software tool designed to predict outcomes on the well-known gambling site CSGO-ROL. This tool is intended to help users make informed decisions when participating in gambling activities on Gamdom.
+CSGO-ROL Predictor is a software tool designed to predict outcomes on the well-known gambling site CSGO-ROL. This tool is intended to help users make informed decisions when participating in gambling activities on CSGO-ROLL.
 
 ## Features
 
